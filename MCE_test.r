@@ -3,6 +3,8 @@
 #Version 1.0, 08/09/2013
 #This code generate a fully simulated data set.
 
+require(plyr)
+require(plm)
 
 #Code testing infrastructure
 #----------------------------------------------------------------------------
